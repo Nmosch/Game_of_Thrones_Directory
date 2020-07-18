@@ -1,0 +1,11 @@
+.body {
+    background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2013/12/23/203145/3f50339c45ec14d14d9fdac691f1698f.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 0.95;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(128, 126, 126)
+}
