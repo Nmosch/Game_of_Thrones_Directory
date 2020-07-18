@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Game_of_Thrones_Directory/static/css/main.368510ad.chunk.css",
+    "main.js": "/Game_of_Thrones_Directory/static/js/main.4cb5e2b8.chunk.js",
+    "main.js.map": "/Game_of_Thrones_Directory/static/js/main.4cb5e2b8.chunk.js.map",
+    "runtime-main.js": "/Game_of_Thrones_Directory/static/js/runtime-main.73505cce.js",
+    "runtime-main.js.map": "/Game_of_Thrones_Directory/static/js/runtime-main.73505cce.js.map",
+    "static/js/2.b5f76a14.chunk.js": "/Game_of_Thrones_Directory/static/js/2.b5f76a14.chunk.js",
+    "static/js/2.b5f76a14.chunk.js.map": "/Game_of_Thrones_Directory/static/js/2.b5f76a14.chunk.js.map",
+    "index.html": "/Game_of_Thrones_Directory/index.html",
+    "precache-manifest.b7220342375f7fdaa0acaf161c5e17b4.js": "/Game_of_Thrones_Directory/precache-manifest.b7220342375f7fdaa0acaf161c5e17b4.js",
+    "service-worker.js": "/Game_of_Thrones_Directory/service-worker.js",
+    "static/css/main.368510ad.chunk.css.map": "/Game_of_Thrones_Directory/static/css/main.368510ad.chunk.css.map",
+    "static/js/2.b5f76a14.chunk.js.LICENSE.txt": "/Game_of_Thrones_Directory/static/js/2.b5f76a14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73505cce.js",
+    "static/js/2.b5f76a14.chunk.js",
+    "static/css/main.368510ad.chunk.css",
+    "static/js/main.4cb5e2b8.chunk.js"
+  ]
+}
